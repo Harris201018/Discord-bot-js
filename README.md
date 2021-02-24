@@ -1,0 +1,2 @@
+# wazibot
+**Deprecated**
